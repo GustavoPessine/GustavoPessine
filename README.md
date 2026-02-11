@@ -1,4 +1,4 @@
-- # Prazer, Gustavo! 🚀
+#👋 Prazer, Gustavo!
 
 ### Desenvolvedor TypeScript em formação | Aprendendo com foco no Front End 👨‍💻
 
