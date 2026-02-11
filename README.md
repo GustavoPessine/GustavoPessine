@@ -1,6 +1,6 @@
 - # Prazer, Gustavo! 🚀
 
-### Desenvolvedor TypeScript em formação | Aprendendo com IA e Front End 👨‍💻
+### Desenvolvedor TypeScript em formação | Aprendendo com foco no Front End 👨‍💻
 
 - 🌍 Localizado no Brasil.
 - Cursando Ciência da Computação! 🎓🛸
